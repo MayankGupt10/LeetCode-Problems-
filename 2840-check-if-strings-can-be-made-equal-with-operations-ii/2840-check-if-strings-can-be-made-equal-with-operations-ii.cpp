@@ -1,3 +1,5 @@
+#Will solve it using the approach of taking even and odd frequency out of the total alphabets (26). and will operate the code accordingly by subtrcting the first character/alphabet from the 
+#alphabet series and will check it whether it is equal to evenfrequency or oddfrequency and vice-e-versa respectively. 
 class Solution {
 public:
     bool checkStrings(string s1, string s2) {
