@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0005-longest-palindromic-substring) |
 | [2573-find-the-string-with-lcp](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2573-find-the-string-with-lcp) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0005-longest-palindromic-substring) |
+## Hash Table
+|  |
+| ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+## Sorting
+|  |
+| ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 <!---LeetCode Topics End-->
