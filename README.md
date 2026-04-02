@@ -1,6 +1,7 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
-Welcome to my LeetCode Solutions Repository!
+Hey Programmer, Welcome to my LeetCode Solutions Repository!
+Got Stuck while solving problem on LeetCode!!! Don't Worry, may be you get your solution here!! :) 
 This repository contains well-structured solutions to problems across multiple domains of Data Structures, Algorithms, and SQL.
 
 This repository is a collection of my consistent practice on LeetCode, where I solve problems topic-wise and maintain clean, readable, and optimized solutions.
