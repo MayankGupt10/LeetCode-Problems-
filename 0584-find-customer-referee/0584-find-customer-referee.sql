@@ -1,4 +1,4 @@
 select name 
 from Customer 
-where referee_id is NULL OR 
+where referee_id IS NULL or 
 referee_id != 2;
