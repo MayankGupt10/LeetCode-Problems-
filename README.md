@@ -6,7 +6,7 @@ This repository contains well-structured solutions to problems across multiple d
 This repository is a collection of my consistent practice on LeetCode, where I solve problems topic-wise and maintain clean, readable, and optimized solutions.
 
 Each solution includes:
- Problem Statement (or link) |
+ Problem Statement |
  Optimized Code |
  Comments for better understanding |
 
