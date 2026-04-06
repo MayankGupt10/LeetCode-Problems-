@@ -1,23 +1,12 @@
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
-Hey Programmer, Welcome to my LeetCode Solutions Repository!
-Got Stuck while solving problem on LeetCode!!! Don't Worry, may be you get your solution here!! :) 
-This repository contains well-structured solutions to problems across multiple domains of Data Structures, Algorithms, and SQL.
-
-This repository is a collection of my consistent practice on LeetCode, where I solve problems topic-wise and maintain clean, readable, and optimized solutions.
-
-Each solution includes:
- Problem Statement |
- Optimized Code |
- Comments for better understanding |
-
-
 # LeetCode Topics
 ## Array
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0189-rotate-array) |
+| [0874-walking-robot-simulation](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0874-walking-robot-simulation) |
 | [2573-find-the-string-with-lcp](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -54,6 +43,7 @@ Each solution includes:
 ## Hash Table
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0874-walking-robot-simulation) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sorting
 |  |
@@ -96,6 +86,7 @@ Each solution includes:
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0874-walking-robot-simulation) |
 | [2751-robot-collisions](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2751-robot-collisions) |
 ## Database
 |  |
