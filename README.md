@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
 | ------- |
@@ -92,10 +93,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0874-walking-robot-simulation) |
 | [2751-robot-collisions](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2751-robot-collisions) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Database
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
