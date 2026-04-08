@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0189-rotate-array) |
 | [0874-walking-robot-simulation](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0874-walking-robot-simulation) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0015-3sum) |
 | [2751-robot-collisions](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Bit Manipulation
