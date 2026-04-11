@@ -1,5 +1,4 @@
-
 select name 
-from Customer
-where referee_id is NULL or 
-referee_id != 2;
+from Customer 
+where referee_id IS NULL OR 
+referee_id !=2;
