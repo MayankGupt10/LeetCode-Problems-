@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0189-rotate-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3783-mirror-distance-of-an-integer) |
 ## Stack
 |  |
 | ------- |
