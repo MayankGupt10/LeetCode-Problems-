@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0189-rotate-array) |
 | [0874-walking-robot-simulation](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0874-walking-robot-simulation) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2573-find-the-string-with-lcp](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0344-reverse-string) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3488-closest-equal-element-queries) |
 <!---LeetCode Topics End-->
