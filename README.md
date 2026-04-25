@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2751-robot-collisions) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0015-3sum) |
 | [2751-robot-collisions](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0189-rotate-array) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3783-mirror-distance-of-an-integer) |
 ## Stack
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3488-closest-equal-element-queries) |
 ## Linked List
 |  |
@@ -141,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0707-design-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
