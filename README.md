@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0189-rotate-array) |
 | [0874-walking-robot-simulation](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0874-walking-robot-simulation) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0344-reverse-string) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0075-sort-colors) |
 | [2751-robot-collisions](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
