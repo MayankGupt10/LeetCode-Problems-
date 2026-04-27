@@ -21,6 +21,22 @@ class MyLinkedList{
         }
         return curr->val;
     }
+    // int get(int index){
+    //     if(index  < 0 || index >= size) return -1;
+    //     Node* curr = head;
+    //     for(int i=0;i<index;i++){
+    //         curr = curr-> next;
+    //     }
+   
+
+
+    
+    // void addAtHead(int val){
+    //     Node* newNode = new Node(val);
+    //     newNode -> next = head;
+    //     head -> next = head;
+    // }
+
 
     void addAtHead(int val){
         Node* newNode = new Node(val);
