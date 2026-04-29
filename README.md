@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2751-robot-collisions) |
+| [3225-maximum-score-from-grid-operations](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3488-closest-equal-element-queries) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0005-longest-palindromic-substring) |
 | [2573-find-the-string-with-lcp](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2573-find-the-string-with-lcp) |
+| [3225-maximum-score-from-grid-operations](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Greedy
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2573-find-the-string-with-lcp) |
+| [3225-maximum-score-from-grid-operations](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Two Pointers
 |  |
@@ -156,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Prefix Sum
+|  |
+| ------- |
+| [3225-maximum-score-from-grid-operations](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3225-maximum-score-from-grid-operations) |
 <!---LeetCode Topics End-->
