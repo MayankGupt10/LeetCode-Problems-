@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0006-zigzag-conversion) |
 | [0344-reverse-string](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1108-defanging-an-ip-address) |
 | [2573-find-the-string-with-lcp](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2573-find-the-string-with-lcp) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -166,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3225-maximum-score-from-grid-operations](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3225-maximum-score-from-grid-operations) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
