@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0189-rotate-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0048-rotate-image) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2573-find-the-string-with-lcp) |
 | [3225-maximum-score-from-grid-operations](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/3225-maximum-score-from-grid-operations) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0396-rotate-function) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
