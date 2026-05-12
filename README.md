@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0874-walking-robot-simulation) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2573-find-the-string-with-lcp](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2573-find-the-string-with-lcp) |
 ## Union-Find
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0075-sort-colors) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2751-robot-collisions](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
