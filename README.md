@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0189-rotate-array) |
 | [0396-rotate-function](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1345-jump-game-iv) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2784-check-if-array-is-good](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0796-rotate-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1345-jump-game-iv](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1345-jump-game-iv) |
 <!---LeetCode Topics End-->
