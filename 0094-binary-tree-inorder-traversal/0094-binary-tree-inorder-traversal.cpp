@@ -18,12 +18,10 @@ class Solution {
         inOrder.push_back(root->val);
         solve(root -> right, inOrder);
     }
-
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> inOrder;
         solve(root, inOrder);
-        return inOrder;
-        
+        return inOrder; 
     }
 };
