@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0006-zigzag-conversion) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/1108-defanging-an-ip-address) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0189-rotate-array) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/MayankGupt10/LeetCode-Problems-/tree/master/0796-rotate-string) |
 ## Breadth-First Search
 |  |
